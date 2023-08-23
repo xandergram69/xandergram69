@@ -111,11 +111,13 @@ I am a student who try to balance Living life, Work, study and Content Creation 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xandergram69&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
+" alt="My github stats" /></div>
+
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" align="left" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xandergram69&theme=vue-dark&hide_border=true" align="left" />
 
 </td></tr></table>  
 
